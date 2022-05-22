@@ -1,0 +1,34 @@
+body { padding:2em; font-family: Arial, Helvetica, sans-serif; 
+    color: black; margin: 0.5in  } 
+a {color:navy ; }
+.cabecera { width:110%; max-width: 3200px; margin: o auto ; 
+    background-color: aquamarine  ; border: 2px solid #777; }
+.cabecera #destacado {margin-left: 230px ;}
+.primero { background-color: rgb(187, 227, 155) ; width:111% ;  }
+.segundo { background-color: rgb(18, 153, 222); width: 111% ;  height:260px;}
+.tercero { background-color: rgb(187, 227, 155); width: 111% ; height:270px;}
+.cuarto { background-color: rgb(18, 153, 222); width: 111% ; height:260px}
+.quinto { background-color: rgb(187, 227, 155); width: 111% ;height:260px}
+.sexto { background-color: rgb(18, 153, 222); width: 111% ; height:260px}
+.septimo { background-color: rgb(187, 227, 155); width: 111% ; height:406px}
+div {
+    border: 1px  gray;
+    padding: 0px;
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+  
+  }
+  
+  h5 {
+    text-indent: 0px;
+    text-align: justify;
+    letter-spacing: 1px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
